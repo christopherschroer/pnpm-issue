@@ -1,0 +1,16 @@
+{
+  "name": "pnpm-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christopher Schroer",
+  "license": "MIT",
+  "dependencies": {
+    "@mui/x-data-grid-pro": "7.6.0",
+    "react": "18.3.1"
+  }
+}
